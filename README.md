@@ -11,7 +11,7 @@ MotionFx allows users to join through a direct sign-up or referral link, start w
 
 ## Screenshots
 
-<img width="300" height="250" alt="auth" src="https://github.com/user-attachments/assets/84c7d1bb-74e4-4196-aeb8-623d493ed2a3" />
+<img width="500" height="250" alt="auth" src="https://github.com/user-attachments/assets/84c7d1bb-74e4-4196-aeb8-623d493ed2a3" />
 <img width="300" height="250" alt="landing" src="https://github.com/user-attachments/assets/7b23e11f-2ec2-40b2-805f-6423fb2863ad" />
 
 <img width="300" height="250" alt="new user" src="https://github.com/user-attachments/assets/c890098c-ce5f-4738-946d-05be00b074d4" />
